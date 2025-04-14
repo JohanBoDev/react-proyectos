@@ -67,7 +67,7 @@ npm run dev
 🧑‍💻 Autor
 Johan Bohorquez – Desarrollador frontend 
 📍 Colombia | 💻 En constante aprendizaje
- 📫 [Sigueme en LinkedIn](https://www.linkedin.com/in/johanbodev/)
+ 📫 Sigueme en LinkedIn (https://www.linkedin.com/in/johanbodev/)
 
 
 
