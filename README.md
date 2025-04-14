@@ -16,23 +16,19 @@
 Cada carpeta es un proyecto independiente con su propio código, dependencias y estilos.  
 Puedes clonarlo, estudiarlo, mejorarlo o usarlo como base para tus propios retos.
 
-react-proyectos/ ├── gestor-gastos/ ├── carrito-compras/ ├── lista-contactos/ ├── calculadora-propinas/ ├── biblioteca/ ├── ... y más
-
-
-
 ---
 
 ## 🚀 Proyectos incluidos (nivel intermedio)
 
-| #  | Proyecto                          | Estado      | Descripción breve                            |
-|----|-----------------------------------|-------------|----------------------------------------------|
-| 01 | Gestor de gastos                  | ⬜ Por hacer | Añadir, editar, ver totales                  |
+| #  | Proyecto                          | Estado       | Descripción breve                            |
+|----|-----------------------------------|--------------|----------------------------------------------|
+| 01 | TodoApp                           | ⬜ Hecho     | Crear, marcar,editar y eliminar tareas       |
 | 02 | Carrito de compras                | ⬜ Por hacer | Productos con cantidad y subtotal            |
 | 03 | Lista de contactos                | ⬜ Por hacer | Nombre, email, y acciones básicas            |
 | 04 | Calculadora de propinas           | ⬜ Por hacer | Divide cuenta entre personas                 |
 | 05 | Biblioteca de libros              | ⬜ Por hacer | Marcar libros como leídos                    |
 | 06 | Rutina de ejercicios              | ⬜ Por hacer | Planifica ejercicios semanales               |
-| 07 | Tareas por categorías             | ⬜ Por hacer | Agrupa tareas por tipo                       |
+| 07 |  Gestor de gastos                 | ⬜ Por hacer | Añadir, editar, ver totales                  |
 | 08 | Paleta de colores                 | ⬜ Por hacer | Selecciona y guarda colores favoritos        |
 | 09 | Checklist inteligente             | ⬜ Por hacer | Marcado por secciones y progreso             |
 | 10 | Sistema de puntos gamificado      | ⬜ Por hacer | Recompensas por acciones                     |
@@ -54,7 +50,7 @@ react-proyectos/ ├── gestor-gastos/ ├── carrito-compras/ ├── l
 - ⚛️ React
 - ⚡ Vite
 - 🎨 Tailwind CSS
-- 💾 `useState` (sin librerías externas)
+- 💾 `useState` 
 - 🧩 Componentes reutilizables
 - 📱 Responsive design
 
@@ -66,23 +62,15 @@ react-proyectos/ ├── gestor-gastos/ ├── carrito-compras/ ├── l
 cd nombre-del-proyecto
 npm install
 npm run dev
-💬 Comparte tu avance
-¿Estás haciendo este reto conmigo? Etiqueta tu post con #ReactChallenge
-y mencióname: @JohanBohorquezDev (ajusta tu nombre de usuario real).
+
 
 🧑‍💻 Autor
-Johan Bohorquez – Desarrollador frontend en formación 🚀
+Johan Bohorquez – Desarrollador frontend 
 📍 Colombia | 💻 En constante aprendizaje
-📫 [Tu LinkedIn o GitHub aquí]
+📫 [https://www.linkedin.com/in/johanbodev/]
 
 ⭐ Contribuye
 Si quieres sugerir un proyecto, corregir algo o compartir tu versión mejorada, ¡abre un issue o un PR!
 
 🧠 Inspira. Aprende. Comparte.
 "La mejor forma de aprender a programar, es programando proyectos que te reten cada día."
-
-
-
----
-
-¿Quieres que te ayude a crear también la publicación para LinkedIn con el banner y el objetivo del reto?
