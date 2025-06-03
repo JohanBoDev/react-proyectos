@@ -23,8 +23,8 @@ Puedes clonarlo, estudiarlo, mejorarlo o usarlo como base para tus propios retos
 | #  | Proyecto                          | Estado       | Descripción breve                            |
 |----|-----------------------------------|--------------|----------------------------------------------|
 | 01 | TodoApp                           | ⬜ Hecho     | Crear, marcar,editar y eliminar tareas       |
-| 02 | Carrito de compras                | ⬜ Por hacer | Productos con cantidad y subtotal            |
-| 03 | Lista de contactos                | ⬜ Por hacer | Nombre, email, y acciones básicas            |
+| 02 | Carrito de compras                | ⬜ Hecho     | Productos con cantidad y subtotal            |
+| 03 | Lista de contactos                | ⬜ Hecho     | Nombre, email, y acciones básicas            |
 | 04 | Calculadora de propinas           | ⬜ Por hacer | Divide cuenta entre personas                 |
 | 05 | Biblioteca de libros              | ⬜ Por hacer | Marcar libros como leídos                    |
 | 06 | Rutina de ejercicios              | ⬜ Por hacer | Planifica ejercicios semanales               |
